@@ -1,0 +1,18 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "http://github.com/ReaIIyBigShrimp/quiz",
+  "author": "Darryl <darryl.dolan@hotmail.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-config": "^0.19.2",
+    "sass": "^1.8.0"
+  },
+  "dependencies": {}
+}
